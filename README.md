@@ -52,4 +52,6 @@ For help or customization, open a ticket through EKS.
 discord.gg/busQ9w6dqa
 
 
+**DO NOT CHANGE THE NAME OF THE FILE OR ALTER THE FXMANIFEST OR THE SCCRIPT WILL NOT WORK**
+
 
