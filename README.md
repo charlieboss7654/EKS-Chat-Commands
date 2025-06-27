@@ -30,7 +30,7 @@ You can control:
 
 
 
-Installation
+## Installation
 
 1. Drag and drop the folder into your `resources/` directory  
 2. Add the following to your `server.cfg`:
