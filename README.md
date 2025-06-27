@@ -1,6 +1,6 @@
 EKS Chat Commands Script
 
-This script adds immersive and fully customizable roleplay chat commands to your FiveM server — including `/me`, `/do`, `/gme`, `/twitter`, and more. It supports custom usernames, slow mode anti-spam, and a growing list of realistic RP channels.
+This script adds immersive and fully customizable roleplay chat commands to your FiveM server — including `/me`, `/do`, `/gme`, `/twitter`, and more. It supports custom usernames, slow mode anti-spam, and a growing list of realistic RP commands.
 
 
 ## Features
