@@ -34,7 +34,7 @@ You can control:
 
 1. Drag and drop the folder into your `resources/` directory  
 2. Add the following to your `server.cfg` 'Ensure EKS_CC'
-3 (Optional) Edit `config.lua` to customize and enable/disable cooldowns
+3. (Optional) Edit `config.lua` to customize and enable/disable cooldowns
 
 
 Notes
